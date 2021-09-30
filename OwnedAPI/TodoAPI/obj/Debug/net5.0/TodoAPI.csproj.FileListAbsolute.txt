@@ -1,0 +1,213 @@
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csprojAssemblyReference.cache
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.AssemblyInfo.cs
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.StaticWebAssets.xml
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.exe
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.deps.json
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.runtimeconfig.json
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.runtimeconfig.dev.json
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\ref\TodoAPI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.pdb
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\staticwebassets\TodoAPI.StaticWebAssets.Manifest.cache
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\staticwebassets\TodoAPI.StaticWebAssets.xml
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\scopedcss\bundle\TodoAPI.styles.css
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.CopyComplete
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\ref\TodoAPI.dll
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.pdb
+C:\Users\ABCMNLSOL08\source\repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.genruntimeconfig.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\appsettings.json
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.StaticWebAssets.xml
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.exe
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.deps.json
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.runtimeconfig.json
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.runtimeconfig.dev.json
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\ref\TodoAPI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.pdb
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csprojAssemblyReference.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.AssemblyInfoInputs.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.AssemblyInfo.cs
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\staticwebassets\TodoAPI.StaticWebAssets.Manifest.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\staticwebassets\TodoAPI.StaticWebAssets.xml
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\scopedcss\bundle\TodoAPI.styles.css
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.RazorTargetAssemblyInfo.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.CopyComplete
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\ref\TodoAPI.dll
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.pdb
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.genruntimeconfig.cache
+D:\Desktop\ABC Repos\TodoAPI\TodoAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\appsettings.json
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.StaticWebAssets.xml
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.exe
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.deps.json
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.runtimeconfig.json
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.runtimeconfig.dev.json
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\ref\TodoAPI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\TodoAPI.pdb
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.AssemblyInfoInputs.cache
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.AssemblyInfo.cs
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\staticwebassets\TodoAPI.StaticWebAssets.Manifest.cache
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\staticwebassets\TodoAPI.StaticWebAssets.xml
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\scopedcss\bundle\TodoAPI.styles.css
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.RazorTargetAssemblyInfo.cache
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.CopyComplete
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\ref\TodoAPI.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.pdb
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.genruntimeconfig.cache
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Desktop\ABC Repos\AuthorizatonCodeFlow\OwnedAPI\TodoAPI\obj\Debug\net5.0\TodoAPI.csproj.AssemblyReference.cache

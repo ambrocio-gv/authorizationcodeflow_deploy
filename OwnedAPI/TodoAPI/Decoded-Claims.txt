@@ -1,0 +1,17 @@
+﻿
+//HEADER
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
+
+//PAYLOAD
+{
+  "Id": "4c561a39-154b-407c-8bc5-3b768c920230",
+  "email": "f@f.com",
+  "sub": "f@f.com",
+  "jti": "9b2a0fa3-ae4e-4b2e-afe2-6504baa14a5d", -jwt id 
+  "nbf": 1627973032, -not before
+  "exp": 1627973062, -expiry
+  "iat": 1627973032a -issued at => although it is invalid
+ }

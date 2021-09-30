@@ -1,0 +1,43 @@
+﻿
+@*@{
+    ViewData["Title"] = "Log in";
+}
+
+@model string
+
+@{ var url = $"/OAuth/Authorize{Model}"; }
+
+@Model
+
+<div class="container">
+    <div class="row justify-content-center">
+        <h1>@ViewData["Title"]</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <section>
+            <form action="@url" id="account" method="post">
+                <h5>Use a local account to log in.</h5>
+                <hr />
+                <div class="text-danger"></div>
+                <div class="form-group">
+                    <label></label>
+                    <input class="form-control"  type="text" name="username" value=""/>
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label></label>
+                    <input class="form-control"  type="text" name="password" value=""/>
+                    <span class="text-danger"></span>
+                </div>               
+                <div class="form-group">
+                    <button type="submit" value="Submit" class="btn btn-primary">Log in</button>
+                </div>                
+            </form>
+        </section>
+    </div>
+    <div class="col-md-4"></div>
+</div>*@
+

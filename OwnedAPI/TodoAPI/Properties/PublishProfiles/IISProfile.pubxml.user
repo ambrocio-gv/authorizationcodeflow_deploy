@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2021-09-29T07:25:17.2559549Z;True|2021-09-29T15:20:15.3188072+08:00;True|2021-09-29T15:15:12.9222584+08:00;True|2021-09-29T15:14:01.7321293+08:00;True|2021-09-29T15:04:44.4012272+08:00;False|2021-09-29T15:04:18.9673796+08:00;True|2021-09-23T19:03:58.0783021+08:00;True|2021-09-23T18:53:40.0844662+08:00;True|2021-09-23T18:48:19.8566325+08:00;True|2021-09-14T18:08:03.7828061+08:00;True|2021-09-14T18:06:05.6908128+08:00;True|2021-09-09T14:50:50.9304507+08:00;False|2021-09-09T14:50:04.7904807+08:00;True|2021-09-09T14:48:36.5759697+08:00;True|2021-09-09T14:45:11.3032588+08:00;True|2021-09-09T12:53:29.7541420+08:00;True|2021-09-09T12:50:34.2954969+08:00;True|2021-09-09T12:42:48.6336349+08:00;False|2021-09-09T12:42:28.5929406+08:00;True|2021-09-09T12:40:20.6875568+08:00;True|2021-09-09T12:36:33.7158184+08:00;False|2021-09-09T12:35:29.1852424+08:00;True|2021-09-09T12:30:14.9601856+08:00;True|2021-09-08T18:43:32.2724872+08:00;False|2021-09-08T18:39:58.3796129+08:00;True|2021-09-08T18:31:21.0414221+08:00;False|2021-09-08T18:30:30.4983445+08:00;False|2021-09-08T18:29:49.9872947+08:00;True|2021-09-08T18:28:15.0460360+08:00;False|2021-09-08T18:26:38.7594648+08:00;True|2021-09-08T18:19:53.3120554+08:00;True|2021-09-08T18:19:02.3640723+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=.%3bDatabase=Todo%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
