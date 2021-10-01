@@ -15,7 +15,6 @@ namespace TodoAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize(AuthenticationSchemes =JwtBearerDefaults.AuthenticationScheme)]
     [Authorize]
     public class TodoController : ControllerBase
     {       
@@ -31,8 +30,6 @@ namespace TodoAPI.Controllers
         public async Task<IActionResult> GetItems()
         {
             var items = await _context.Items.ToListAsync();
-       
-
             return Ok(items);
         }
 
@@ -76,7 +73,6 @@ namespace TodoAPI.Controllers
             existItem.Description = item.Description;
             existItem.Done = item.Done;
 
-            // Implement the changes on the database level
             await _context.SaveChangesAsync();
 
             return NoContent();
@@ -95,9 +91,5 @@ namespace TodoAPI.Controllers
 
             return Ok(existItem);
         }
-
-
-
-
     }
 }

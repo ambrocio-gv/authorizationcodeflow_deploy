@@ -1126,7 +1126,6 @@ D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAut
 D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\TAuthServer.TagHelpers.output.cache
 D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\TAuthServer.RazorCoreGenerate.cache
 D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
 D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\Razor\Views\OAuth\Authorize.cshtml.g.cs
 D:\Desktop\IIS_Deploy_AuthorizationCodeFlow\AuthorizationServer\TAuthServer\TAuthServer\obj\Debug\netcoreapp3.1\Razor\Views\OAuth\Login.cshtml.g.cs

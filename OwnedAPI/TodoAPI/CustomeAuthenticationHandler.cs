@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 namespace TodoAPI
 {
     public class CustomeAuthenticationHandler : AuthenticationHandler<AuthenticationSchemeOptions>
-    {
-
-        //when authorizaton fails given from the access token we get challenged and then proceed to authentication through this API - do this to make its so that the authentication fails 
+    {     
         public CustomeAuthenticationHandler(
             IOptionsMonitor<AuthenticationSchemeOptions> options,
             ILoggerFactory logger,
