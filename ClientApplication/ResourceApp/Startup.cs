@@ -39,7 +39,7 @@ namespace ResourceApp
                     config.AuthorizationEndpoint = "https://authenticationserver.local:447/oauth/authorize";
                     config.TokenEndpoint = "https://authenticationserver.local:447/oauth/token";
                     config.SaveTokens = true;
-
+   
                     config.Events = new OAuthEvents() {
                         OnCreatingTicket = context => {
                             var accessToken = context.AccessToken;

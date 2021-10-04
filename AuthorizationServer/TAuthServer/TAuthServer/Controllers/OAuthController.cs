@@ -25,8 +25,7 @@ namespace TAuthServer.Controllers
  
         public class OAuthController : Controller
         {
-            private readonly UserManager<IdentityUser> _userManager;
-            private readonly JwtConfig _jwtConfig;
+            private readonly UserManager<IdentityUser> _userManager;            
             private static IdentityUser currentUser;
             private static string codeChallenge;
             private static string authorizationCode;
@@ -35,12 +34,10 @@ namespace TAuthServer.Controllers
 
             public OAuthController(
                 UserManager<IdentityUser> userManager,
-                IOptionsMonitor<JwtConfig> optionsMonitor,
-                TokenValidationParameters tokenValidationParams,
+                IOptionsMonitor<JwtConfig> optionsMonitor,                
                 ApiDbContext apiDbContext)
             {
                 _userManager = userManager;
-                _jwtConfig = optionsMonitor.CurrentValue;
             }
 
 
@@ -269,7 +266,7 @@ namespace TAuthServer.Controllers
                 new Claim (JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                 };
 
-                var secretBytes = Encoding.UTF8.GetBytes(_jwtConfig.Secret);
+                var secretBytes = Encoding.UTF8.GetBytes(Constants.Secret);
                 var key = new SymmetricSecurityKey(secretBytes);
 
                 var algorithm = SecurityAlgorithms.HmacSha256;

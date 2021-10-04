@@ -33,8 +33,6 @@ namespace TAuthServer
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.Configure<JwtConfig>(Configuration.GetSection("JwtConfig"));
-
             services.AddDbContext<ApiDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
@@ -44,38 +42,7 @@ namespace TAuthServer
 
             services.ConfigureApplicationCookie(options => {
                 options.LoginPath = $"/";
-            }); 
-
-
-            var key = Encoding.ASCII.GetBytes(Configuration["JwtConfig:Secret"]);
-
-            var tokenValidationParams = new TokenValidationParameters
-            {             
-                ClockSkew = TimeSpan.Zero, 
-                ValidIssuer = Constants.Issuer,
-                ValidAudience = Constants.Audiance,
-                IssuerSigningKey = new SymmetricSecurityKey(key)
-            };
-
-            services.AddSingleton(tokenValidationParams);          
-
-            services.AddAuthentication("OAuth")
-                .AddJwtBearer("OAuth", config => {
-
-                    config.Events = new JwtBearerEvents()
-                    {
-                        OnMessageReceived = context => {
-                            if (context.Request.Query.ContainsKey("access_token"))
-                            {
-                                context.Token = context.Request.Query["access_token"];
-                            }
-
-                            return Task.CompletedTask;
-                        }
-                    };
-
-                    config.TokenValidationParameters = tokenValidationParams;
-                });
+            });        
 
             services.AddControllersWithViews()
                 .AddRazorRuntimeCompilation();

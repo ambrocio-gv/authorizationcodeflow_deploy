@@ -45,10 +45,6 @@ namespace TodoAPI
             services.AddHttpClient()
                 .AddHttpContextAccessor();
 
-
-            services.AddDatabaseDeveloperPageExceptionFilter();
-
-
             services.AddControllers();
 
             services.AddSwaggerGen(c => {
